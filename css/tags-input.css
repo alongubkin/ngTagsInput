@@ -71,7 +71,7 @@ tags-input .tags .tag-item.selected {
 }
 
 tags-input .tags .tag-item span {
-    font: 13px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 tags-input .tags .tag-item button {
@@ -95,7 +95,8 @@ tags-input .tags .input {
     padding: 0px 0px 0px 4px;
     height: 21px;
     float: left;
-    font: 13px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
+	width: auto !important;
 }
 
 tags-input .tags input::-ms-clear {
